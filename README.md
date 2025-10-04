@@ -3,7 +3,7 @@
 FastAPI backend that reviews code diffs and returns a summary + findings.
 
 ## Modes
-- Dummy (default): `USE_OPENAI=false`, `USE_OLLAMA=false`
+- Dummy (default): `USE_OPENAI=false
 - OpenAI: `USE_OPENAI=true` + `OPENAI_API_KEY` + `OPENAI_MODEL`
 
 
